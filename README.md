@@ -4,7 +4,9 @@ This is a Node.js backend server built with Express and MongoDB to manage a rest
 
 ## Live API Endpoint
 
-This API is deployed on Render. You can test it live at the following base URL:
+This API is deployed on Vercel. You can test it live at the following base URL:
+
+**`https://guestara-internship-assignment.vercel.app/api/`**
 
 ### Tech Stack
 
